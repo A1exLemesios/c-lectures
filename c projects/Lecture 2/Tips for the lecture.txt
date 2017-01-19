@@ -1,0 +1,27 @@
+First kame genikes erwtiseis :
+
+Ti einai to abstraction ?
+Ti einai ena programma ?
+Ti einai ena function ?
+
+xwrise tous se 2 omades .
+
+pe tous na ftiaxoun ena programma to opio tha pernei 2 metavlites integers kai tha vriskei tin megaliteri
+
+otan teleiwsoun thimistous gia ta functions . Meta anafertous oti ta functions exoun dio merooi , to call kai to definition . 
+
+Dwse paradeigmata apo ekeina pou exoun xrisiopioisei mexri stigmis.
+
+kai meta dwse tin geniki morfi enos function sti c ston pinaka : 
+
+-     [return_type] [nameOfTheFunction] (int valA, int valB) {
+	int result ;
+	
+	.....code to execute
+
+	return result;
+
+}
+
+- So function is the abstract solution of a problem
+

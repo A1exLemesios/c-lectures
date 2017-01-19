@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1484178566 source:c:\users\alex\desktop\c projects\exercise 2\main.c
+	<stdio.h>
+	<string.h>
+
+1484094992 source:c:\users\alex\desktop\c projects\exercise 2\test.c
+	<stdio.h>
+
+1484178566 source:c:\users\alex\desktop\c projects\first lecture\exercise 2\main.c
+	<stdio.h>
+	<string.h>
+

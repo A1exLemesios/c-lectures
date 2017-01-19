@@ -1,0 +1,15 @@
+
+Exercise 1 : Aims : 
+- Na katalavoun ti simainei abstract problem , solution : kane paradeigmata prwta me zigo kai palindromo prin na dwseis tin askisi .
+- Flow of execution
+
+Exercise 2 : Aims : 
+- Na katalavoun ti en ta placeholders pou valoun %d,%s , oti mporoun na xrisimopioithoun me parapanw metavlites 
+- Meta na katalavoun to concept miou function . Deixe paradeigma me printf kai polla placeholders
+
+Exercise 3 : Aims : 
+- To idio me exercise 2 + flow of execution
+// strcmp returns 0 if strings are equal , negative if one is bigger and positive integer if other is bigger .
+
+Exercise 4 : Aims : 
+- for loop in another fashion + for loops  - Gia na exigiseis to for loop deixe tous to paradeigma pou ekamnan me sum = sum + (some variable)
